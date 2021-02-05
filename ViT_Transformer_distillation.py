@@ -6,10 +6,6 @@ from efficient import ViT as EfficientViT
 
 from einops import rearrange, repeat
 
-
-# understood and reimplemented from
-# https://github.com/lucidrains/bottleneck-transformer-pytorch
-
 # helpers
 
 def exists(val):
